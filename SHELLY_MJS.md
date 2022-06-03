@@ -1,4 +1,4 @@
-activation-switch.js: Activation switch
+activation-switch.js: test Activation switch
 ===
 Replicate activation_switch profile from Gen1 devices.
 
